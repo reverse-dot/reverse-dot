@@ -1,4 +1,4 @@
-# 💫 Sobre mí:
+#
 🖌️ Diseñador UX/UI integrándome en el Desarrollo Front End<br>🤓 Actualmente estoy aprendiendo HTML5, CSS, Javascript, Tailwind CSS
 
 ## 🌐 Socials:
